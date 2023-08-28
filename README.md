@@ -1,6 +1,6 @@
 # Das Tonnetz 🍩
 
-This is my implementation of [Neo-Riemannian chord triads](https://en.wikipedia.org/wiki/Neo-Riemannian_theory).
+This is my implementation of [Neo-Riemannian chord progressions](https://en.wikipedia.org/wiki/Neo-Riemannian_theory) using the [Tonnetz](https://en.wikipedia.org/wiki/Tonnetz) (tone network) as discovered by Euler.
 
 ## Getting Started
 
